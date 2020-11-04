@@ -1,0 +1,2 @@
+rootProject.name='MyRh'
+include ':app'
