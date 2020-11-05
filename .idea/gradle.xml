@@ -10,6 +10,12 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/formwork" />
+            <option value="$PROJECT_DIR$/home" />
+            <option value="$PROJECT_DIR$/net" />
+            <option value="$PROJECT_DIR$/user" />
+            <option value="$PROJECT_DIR$/video" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

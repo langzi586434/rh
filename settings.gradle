@@ -1,2 +1,8 @@
 rootProject.name='MyRh'
 include ':app'
+include ':formwork'
+include ':common'
+include ':user'
+include ':video'
+include ':home'
+include ':net'
